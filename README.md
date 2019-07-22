@@ -2,6 +2,12 @@
 
 Jsfuck decryption implemented by pure Python code
 
+开发于 python3，可用pip安装。
+
+'''
+pip3 install unjsfuck
+'''
+
 # 纯 python 实现的 jsfuck 解密
 
 主要是用于没有 js 解释器环境的特殊状态的 jsfuck 解密处理。
