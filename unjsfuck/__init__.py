@@ -1,0 +1,1 @@
+from .unjsfuck import unjsfuck
