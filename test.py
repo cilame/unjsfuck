@@ -1,9 +1,9 @@
 try:
     from unjsfuck import unjsfuck
 except:
+    # for local test.
     import unjsfuck
-
-unjsfuck = unjsfuck.unjsfuck
+    unjsfuck = unjsfuck.unjsfuck
 
 # 这里的测试是六字符处理的测试 只有 ()[]+! 六个字符生成的处理
 def test_6():
