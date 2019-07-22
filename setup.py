@@ -3,7 +3,7 @@ import vrequest
  
 setup(
     name = "unjsfuck",
-    version = '0.0.0',
+    version = '0.0.1',
     keywords = "unjsfuck",
     author = "cilame",
     author_email = "opaquism@hotmail.com",
